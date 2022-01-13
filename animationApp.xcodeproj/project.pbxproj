@@ -14,6 +14,7 @@
 		C62CB074278CAA12009996C7 /* animationApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C62CB072278CAA12009996C7 /* animationApp.xcdatamodeld */; };
 		C62CB076278CAA15009996C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C62CB075278CAA15009996C7 /* Assets.xcassets */; };
 		C62CB079278CAA15009996C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C62CB077278CAA15009996C7 /* LaunchScreen.storyboard */; };
+		C6CEB37C27903DEF002A5C7E /* Extension  + UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6CEB37B27903DEF002A5C7E /* Extension  + UIButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C62CB075278CAA15009996C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C62CB078278CAA15009996C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C62CB07A278CAA15009996C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6CEB37B27903DEF002A5C7E /* Extension  + UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension  + UIButton.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				C62CB06B278CAA12009996C7 /* SceneDelegate.swift */,
 				C62CB06D278CAA12009996C7 /* ViewController.swift */,
 				C62CB06F278CAA12009996C7 /* Main.storyboard */,
+				C6CEB37B27903DEF002A5C7E /* Extension  + UIButton.swift */,
 				C62CB075278CAA15009996C7 /* Assets.xcassets */,
 				C62CB077278CAA15009996C7 /* LaunchScreen.storyboard */,
 				C62CB07A278CAA15009996C7 /* Info.plist */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C62CB06E278CAA12009996C7 /* ViewController.swift in Sources */,
+				C6CEB37C27903DEF002A5C7E /* Extension  + UIButton.swift in Sources */,
 				C62CB06A278CAA12009996C7 /* AppDelegate.swift in Sources */,
 				C62CB074278CAA12009996C7 /* animationApp.xcdatamodeld in Sources */,
 				C62CB06C278CAA12009996C7 /* SceneDelegate.swift in Sources */,
